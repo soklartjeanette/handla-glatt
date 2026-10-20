@@ -13,4 +13,4 @@ Listan sparas automatiskt med localStorage i samma webbläsare. Lagring måste v
 - `index.html` – sidans innehåll.
 - `style.css` – responsiv design för mobil och dator.
 - `app.js` – listans funktioner och lokal lagring.
-- `favicon.svg` – sidans ikon.
+- `apple.svg` – grönt äpple i sidhuvudet och sidans ikon.
