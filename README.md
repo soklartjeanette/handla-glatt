@@ -1,4 +1,4 @@
-# Handla glatt
+# Handla gott
 
 En responsiv inköpslista på svenska med varma färger. Lägg till varor, bocka av dem och ta bort dem. Avbockade varor hamnar längst ner och kan rensas med en knapp.
 
